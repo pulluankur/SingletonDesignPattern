@@ -1,0 +1,14 @@
+
+I
+java:S1481"3Remove this unused "singletonSync1" local variable.(Âë­¨
+ë
+java:S1598"ÔThis file "SingletonThreadSecondDemo.java" should be located in "com\example\hateoas\singleton" directory, not in "C:\Users\MVWT9320\Downloads\design-patterns-master\singleton\src\main\java\com\practice\example".(ŠíƒÕ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¥Éß¡
+e
+java:S1104"OMake obj a static final constant or non-public and provide accessors if needed.(Ø‰Ÿø
+N
+java:S1481"3Remove this unused "singletonSync2" local variable.(µ©Žûþÿÿÿÿ
+[
+java:S2168&"9Remove this dangerous instance of double-checked locking.(Ùµ™íÿÿÿÿÿ8¾Àú “.
+?
+java:S1444")Make this "public static obj" field final(Ø‰Ÿø

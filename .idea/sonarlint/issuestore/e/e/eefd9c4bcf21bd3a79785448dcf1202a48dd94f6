@@ -1,0 +1,18 @@
+
+C
+java:S1604"(Make this anonymous inner class a lambda(‘è¸·øÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(¥Éß¡
+>
+java:S1604"(Make this anonymous inner class a lambda(­…å¥
+t
+java:S1104"YMake singletonSync a static final constant or non-public and provide accessors if needed.(ýÇ¼Íùÿÿÿÿ
+Œ
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú7
+å
+java:S1598"ÎThis file "SingletonThreadDemo.java" should be located in "com\example\hateoas\singleton" directory, not in "C:\Users\MVWT9320\Downloads\design-patterns-master\singleton\src\main\java\com\practice\example".(ŠíƒÕ
+N
+java:S1444"3Make this "public static singletonSync" field final(ýÇ¼Íùÿÿÿÿ
+I
+java:S1481"3Remove this unused "singletonSync2" local variable.(‚Æ®ê
+I
+java:S1481	"3Remove this unused "singletonSync1" local variable.(£ðûÇ

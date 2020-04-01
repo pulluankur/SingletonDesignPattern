@@ -1,0 +1,9 @@
+
+H
+java:S1481	"2Remove this unused "singletonLazy" local variable.(àÀ’ê
+N	java:S106"9Replace this use of System.out or System.err by a logger.(÷ø
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ÁÏñÿüÿÿÿÿ
+ß
+java:S1598"ÈThis file "SingletonDemo.java" should be located in "com\example\hateoas\singleton" directory, not in "C:\Users\MVWT9320\Downloads\design-patterns-master\singleton\src\main\java\com\practice\example".(ŠíƒÕ
+U
+java:S1481"3Remove this unused "singletonEarly" local variable.(çûğÅûÿÿÿÿ8´Êø “.

@@ -1,0 +1,13 @@
+
+[	java:S112 "FDefine and throw a dedicated exception instead of using a generic one.(§ÆÍÎ
+[	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(‚ºÆ­
+R
+java:S3066"<Lower the visibility of this setter or remove it altogether.(àÃƒ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ùÿ›ºúÿÿÿÿ
+S
+java:S1197-"8Move the array designator from the variable to the type.(ùï¾Žÿÿÿÿÿ
+M	java:S1065"9Replace this use of System.out or System.err by a logger.(Ššv
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(Ó€Êÿÿÿÿÿ
+K
+java:S1144"0Remove this unused private "doSomething" method.(Ùÿ›ºúÿÿÿÿ
